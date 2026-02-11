@@ -2,7 +2,7 @@
 
 **Nombre:** Jessica Yesenia Garza Gómez
 **Matrícula:** A01236941
-**Semestre:* Febrero-Junio 2026
+**Semestre:** Febrero-Junio 2026
 
 ## Descripción
 

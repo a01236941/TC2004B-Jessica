@@ -9,7 +9,7 @@ Semestre: 4to
 Porque quiero ser analista en el deporte.
 
 ¿Qué espero aprender?
-Habilidades nuevas del ámbito de data science.
+Habilidades nuevas del ámbito de data science para generar experiencia.
 
 Herramientas que ya conozco:
 Python

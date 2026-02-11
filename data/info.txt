@@ -1,0 +1,23 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Jessica Garza
+Matrícula: A01236941
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Porque quiero ser analista en el deporte.
+
+¿Qué espero aprender?
+Habilidades nuevas del ámbito de data science.
+
+Herramientas que ya conozco:
+Python
+Matlab
+R
+C++
+
+Herramientas nuevas para mí:
+La terminal
+Git
+GitHub

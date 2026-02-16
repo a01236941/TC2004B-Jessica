@@ -212,3 +212,20 @@ __marimo__/
 # Virtual environment (your venv)
 jessi_ambiente/
 
+# Ambientes virtuales
+venv/
+env/
+tc2004b_env/
+.venv/
+jessi_ambiente/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
